@@ -28,6 +28,7 @@ This repository contains programs written in C for my Low Level Programming proj
 
 | 0x0A-argc_argv |
 
+| 0x0C. C - More malloc, free |
 
 ## Author
 
